@@ -1,0 +1,12 @@
+name: FireWings
+main: FireWings\Main
+version: 1.0
+api: [3.0.0]
+author: MulqiGaming64
+commands:
+  wings:
+    description: "Aktif Kan Atau Off Kan Sayap Api"
+    permission: fire.command.wing
+permissions:
+  fire.command.wing:
+    default: op
